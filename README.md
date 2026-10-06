@@ -1,91 +1,86 @@
 # Practice DSA
 
-This repository contains the DSA problems I am solving while learning and practicing Java.
+This repository contains my Data Structures and Algorithms practice in Java.
 
-I am using this repo to keep my solutions in one place and track my progress over time.
+I am using this repository to improve my problem-solving skills and prepare for coding interviews and placements. I am solving problems topic by topic and trying to understand the approach instead of just memorizing the code.
 
 ## Topics I am Practicing
 
 ### Arrays
 
-Array problems are helping me improve my understanding of loops, indexing, searching and different ways of manipulating elements.
+I am practicing common array problems and learning different ways to solve them efficiently.
 
-Problems include:
-- Buy and Sell Stock
-- Maximum Subarray
-- Move Zeroes
-- Remove Element
-- Rotate Array
-- Trapping Rain Water
-- Merge Sorted Array
-- Sort Colors
+* Buy and Sell Stock
+* Maximum Subarray
+* Move Zeroes
+* Rotate Array
+* Merge Sorted Array
+* Remove Element
+* Trapping Rain Water
+* Sort Colors
 
 ### Binary Search
 
-I am practicing binary search and its variations to understand how we can reduce the search space and solve problems efficiently.
+Learning how binary search can be used not only for simple searching but also for different types of sorted-array problems.
 
-Problems include:
-- Search Position
-- Find First and Last Position
-- Find Peak Element
-- Find Minimum in Rotated Sorted Array
-- Search in Rotated Sorted Array
-- Median of Two Sorted Arrays
+* Search Position
+* Find First and Last Position
+* Find Peak Element
+* Find Minimum in Rotated Sorted Array
+* Search in Rotated Sorted Array
+* Median of Two Sorted Arrays
 
 ### Strings
 
-These problems focus on string traversal, comparison, reversing and manipulating characters.
+Practicing string manipulation and learning how to handle common interview problems.
 
-Problems include:
-- Reverse String
-- Reverse Words in a String
-- Reverse Words in String III
-- Longest Common Prefix
-- String Compression
-- Is Subsequence
+* Reverse String
+* Reverse Words
+* Reverse Words in String III
+* Longest Common Prefix
+* String Compression
+* Is Subsequence
+* Palindrome
 
 ### 2D Arrays / Matrix
 
-These problems help me understand rows, columns, matrix traversal and different ways of working with 2D arrays.
+Working with rows, columns, diagonals and different matrix traversal techniques.
 
-Problems include:
-- Matrix Diagonal Sum
-- Search in Matrix
-- Spiral Matrix
-- Rotate Image
-- Transpose Matrix
-- Set Matrix Zeroes
+* Search in Matrix
+* Spiral Matrix
+* Matrix Diagonal Sum
+* Rotate Image
+* Transpose Matrix
+* Set Matrix Zeroes
 
-### Basic Problems
+### Other Problems
 
-I am also practicing some smaller problems to improve my logic and get comfortable with writing solutions in Java.
+Some problems don't fit into one particular category but are useful for improving problem-solving skills.
 
-Problems include:
-- Palindrome
-- Palindrome Number
-- Find Shortest Path
+* Palindrome Number
+* Find Shortest Path
 
-## How I Am Practicing
+## How I Practice
 
-For each problem, I try to:
+For each problem, I try to follow these steps:
 
 1. Understand the problem
 2. Think about the simplest approach
-3. Write the solution
-4. Check the time and space complexity
-5. Try to improve the solution if possible
+3. Write the code
+4. Test it with different examples
+5. Check Time and Space Complexity
+6. Look for a better approach if possible
 
-I am focusing more on understanding the logic than just memorizing solutions.
+## What I Am Learning
 
-## Progress
+While solving these problems, I am focusing on:
 
-- ✅ Array Problems
-- ✅ String Problems
-- ✅ Matrix Problems
-- 🔄 Binary Search
-- 🔄 More DSA Problems
-
-I will keep adding new problems as I continue learning.
+* Writing clean Java code
+* Understanding patterns
+* Improving logical thinking
+* Learning Time and Space Complexity
+* Recognizing which approach to use for a problem
+* Improving problem-solving speed
 
 ## Language
 
@@ -93,9 +88,9 @@ Java
 
 ## Goal
 
-The main goal of this repository is to improve my problem-solving skills and prepare for coding interviews and placements.
+My goal is to become better at DSA and build enough problem-solving skills for coding interviews and placement tests.
 
-This is a collection of my practice, so the repository will keep changing as I learn new concepts and solve more problems.
+I will keep adding more problems as I continue learning.
 
 ## Connect With Me
 
