@@ -1,86 +1,107 @@
 # Practice DSA
 
-This repository contains my Data Structures and Algorithms practice in Java.
+This repository contains my DSA practice in Java.
 
-I am using this repository to improve my problem-solving skills and prepare for coding interviews and placements. I am solving problems topic by topic and trying to understand the approach instead of just memorizing the code.
+I am solving problems topic-wise and, more importantly, trying to identify the **pattern behind each problem**.
 
-## Topics I am Practicing
+## DSA Patterns I Am Practicing
 
-### Arrays
+### Two Pointers
 
-I am practicing common array problems and learning different ways to solve them efficiently.
+Using two pointers to work with arrays or strings efficiently.
 
-* Buy and Sell Stock
-* Maximum Subarray
 * Move Zeroes
-* Rotate Array
-* Merge Sorted Array
 * Remove Element
+* Reverse String
+* Is Subsequence
+* String Compression
 * Trapping Rain Water
+* Merge Sorted Array
 * Sort Colors
+
+### Sliding Window
+
+Used when we need to work with a continuous subarray or substring.
+
+* Max Consecutive Ones
+* Max Consecutive Ones III
 
 ### Binary Search
 
-Learning how binary search can be used not only for simple searching but also for different types of sorted-array problems.
+Problems where we reduce the search space by half.
 
 * Search Position
 * Find First and Last Position
 * Find Peak Element
-* Find Minimum in Rotated Sorted Array
+* Find Minimum in Sorted Array
 * Search in Rotated Sorted Array
+* Ceiling in Sorted Array
+* Floor in Sorted Array
 * Median of Two Sorted Arrays
+* Count Occurrence
 
-### Strings
+### Kadane's Algorithm
 
-Practicing string manipulation and learning how to handle common interview problems.
+Used for finding the best subarray based on sum/product conditions.
+
+* Maximum Subarray
+* Maximum Product Subarray
+
+### Sorting
+
+Practicing different sorting techniques and understanding their working.
+
+* Merge Sort
+* Quick Sort
+* Sort Colors
+
+### String
+
+Problems based mainly on string traversal and manipulation.
 
 * Reverse String
 * Reverse Words
 * Reverse Words in String III
 * Longest Common Prefix
 * String Compression
-* Is Subsequence
+* String to Integer (atoi)
 * Palindrome
+* Is Subsequence
+* Palindrome Number
 
-### 2D Arrays / Matrix
+### Matrix / 2D Array
 
-Working with rows, columns, diagonals and different matrix traversal techniques.
+Problems involving rows, columns and matrix traversal.
 
 * Search in Matrix
 * Spiral Matrix
-* Matrix Diagonal Sum
 * Rotate Image
 * Transpose Matrix
+* Matrix Diagonal Sum
 * Set Matrix Zeroes
 
-### Other Problems
+### Array
 
-Some problems don't fit into one particular category but are useful for improving problem-solving skills.
+General array problems involving traversal, manipulation and optimization.
 
-* Palindrome Number
-* Find Shortest Path
+* Buy and Sell Stock
+* Rotate Array
+* Merge Sorted Array
+* Move Zeroes
+* Remove Element
+* Trapping Rain Water
 
-## How I Practice
+## My Approach
 
-For each problem, I try to follow these steps:
+For every problem, I try to understand:
 
-1. Understand the problem
-2. Think about the simplest approach
-3. Write the code
-4. Test it with different examples
-5. Check Time and Space Complexity
-6. Look for a better approach if possible
+* What is the pattern?
+* What is the simplest approach?
+* Can I optimize it?
+* What is the Time Complexity?
+* What is the Space Complexity?
 
-## What I Am Learning
-
-While solving these problems, I am focusing on:
-
-* Writing clean Java code
-* Understanding patterns
-* Improving logical thinking
-* Learning Time and Space Complexity
-* Recognizing which approach to use for a problem
-* Improving problem-solving speed
+The main goal is to recognize the **pattern as soon as I see the problem**.
 
 ## Language
 
@@ -88,11 +109,11 @@ Java
 
 ## Goal
 
-My goal is to become better at DSA and build enough problem-solving skills for coding interviews and placement tests.
+Improve my problem-solving skills and prepare for coding interviews and placements.
 
-I will keep adding more problems as I continue learning.
+I will keep adding more problems and patterns as I continue learning.
 
-## Connect With Me
+## Connect
 
 GitHub: https://github.com/vishal-kushwah01
 
